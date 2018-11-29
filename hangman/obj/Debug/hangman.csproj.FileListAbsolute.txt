@@ -1,0 +1,19 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\hangman\hangman\bin\Debug\hangman.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\hangman\hangman\bin\Debug\hangman.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\hangman\hangman\bin\Debug\hangman.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\hangman\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\hangman\hangman\obj\Debug\hangman.Form1.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\hangman\hangman\obj\Debug\hangman.Properties.Resources.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\hangman\hangman\obj\Debug\hangman.csproj.GenerateResource.Cache
+c:\users\vladimir\documents\visual studio 2015\Projects\hangman\hangman\obj\Debug\hangman.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\hangman\hangman\obj\Debug\hangman.pdb
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\obj\Debug\hangman.csprojAssemblyReference.cache
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\obj\Debug\hangman.Form1.resources
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\obj\Debug\hangman.Properties.Resources.resources
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\obj\Debug\hangman.csproj.GenerateResource.cache
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\OXI\OneDrive\Учебный материал\ОсновыCSharp\hangman\hangman\obj\Debug\hangman.pdb
